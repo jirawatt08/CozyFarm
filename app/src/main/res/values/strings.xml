@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CozyFarm</string>
+    <string name="widget_name">CozyFarm Widget</string>
+    <string name="widget_description">Manage your farm plots from the home screen.</string>
 </resources>
